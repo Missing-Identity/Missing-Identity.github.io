@@ -1,0 +1,92 @@
+h2{
+	color: goldenrod;
+	text-decoration: underline;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1{
+	font-size: 50px;
+	margin-left: 10px;
+}
+
+.Propic{
+	border: 5px solid firebrick;
+	border-radius: 50%;
+	width: 10%;
+	margin-left: 620px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.Home_button:hover, .Projects_button:hover, .Contact_button:hover{
+	color: blue;
+}
+
+table{
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size: 50px;
+	border: 5px solid cyan;
+	background-color: #240090;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	text-align: center;
+	border-radius: 25px;
+	width: 45%
+}
+
+body{
+	background-color: black;
+	background-size: cover;
+}
+
+.Main_Title{
+	border: 5px solid firebrick;
+	background-color: red;
+	color: gold;
+	width: 24.2%;
+	margin: auto;
+	border-radius: 25px;
+	font-family: 'Arvo', serif;
+	font-size: 40px;
+}
+
+.Masterdiv{
+	border: 5px solid darkgrey;
+	border-radius: 25px;
+	background: url(https://images.unsplash.com/photo-1472712739516-7ad2b786e1f7?ixlib=rb-1.2.1&w=1000&q=80);
+	background-size: cover;
+}
+
+.Contact{
+	border: 5px solid cyan;
+	border-radius: 25px;
+	background-color: #0C0032;
+	color: red;
+	text-align: center;
+	font-family: 'Arvo', serif;
+}
+
+.Contentsection{
+	border: 3px solid yellow;
+	border-radius: 25px;
+	background-color: #3500D3;
+	margin: 10px;
+}
+
+.MainContactinfo{
+	border: 3px solid #F64C72;
+	border-radius: 25px;
+	padding-left: 10px
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	background-color: rebeccapurple;
+}
+
+li{
+	font-size: 20px;
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+}
